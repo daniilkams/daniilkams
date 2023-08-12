@@ -2,7 +2,7 @@
 - 👀 I’m interested in web-programming
 - 🌱 I’m currently learning php and javascript
 - 💞️ I’m looking for people who need creating web-site
-- 📫 How to reach me ...
+- 📫 My discord and telegram: @daniilkams
 
 <!---
 daniilkams/daniilkams is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
