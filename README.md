@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning php and javascript
 - 💞️ I’m looking for people who need creating web-site
 - 📫 My discord and telegram: @daniilkams
+- 💻 My web-sites: daniilkamsblog.tk and daniilkams-sites.ru
 
 <!---
 daniilkams/daniilkams is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
