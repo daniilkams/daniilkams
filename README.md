@@ -1,6 +1,6 @@
 - 👋 Hi, I’m daniil_kams
 - 👀 I’m interested in web-programming, programming and gameDev
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Flutter
 - 💞️ I’m looking for people who need creating web-site
 - 📫 My discord and telegram: @daniilkams
 - 💻 My web-sites: blogdaniilkams.ru and create-sites.daniilkams.ru
