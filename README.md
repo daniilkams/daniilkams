@@ -1,9 +1,9 @@
 - 👋 Hi, I’m daniil_kams
 - 👀 I’m interested in web-programming, programming and gameDev
-- 🌱 I’m currently learning php and javascript
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking for people who need creating web-site
 - 📫 My discord and telegram: @daniilkams
-- 💻 My web-sites: daniilkamsblog.online and daniilkams-sites.ru
+- 💻 My web-sites: blogdaniilkams.ru and create-sites.daniilkams.ru
 
 <!---
 daniilkams/daniilkams is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
