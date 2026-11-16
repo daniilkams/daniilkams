@@ -1,5 +1,5 @@
 - 👋 Hi, I’m daniil_kams
-- 👀 I’m interested in web-programming, programming and gameDev
+- 👀 I’m interested in web|mobile|desktop-programming, gameDev, DevOps, ML
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking for people who need creating web-site
 - 📫 My discord and telegram: @daniilkams
